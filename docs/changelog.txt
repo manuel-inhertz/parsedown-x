@@ -1,0 +1,7 @@
+Changelog for parsedownX
+
+parsedownX 1.0.0
+---------------------------------
+- Initial Version
+- Added erusev/parsedown php package
+- basic functionalities

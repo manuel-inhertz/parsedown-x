@@ -1,0 +1,36 @@
+{
+    "name": "manuel-inhertz/parsedown-x",
+    "description": "The ultimate Markdown Parser for MODX",
+    "type": "modx-package",
+    "keywords": ["modx","repoman","markdown"],
+    "homepage": "https://github.com/manuel-inhertz/parsedown-x",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Manuel InHertz",
+            "email": "manuel@manuel-inhertz.com",
+            "homepage" : "https://www.manuel-inhertz.com/"
+        }        
+    ],
+    "support": {
+        "email": "dev@manuel-inhertz.com",
+        "issues": "https://github.com/manuel-inhertz/parsedown-x/issues",
+        "forum": "http://forums.modx.com/",
+        "wiki": "https://github.com/manuel-inhertz/parsedown-x/wiki",
+        "source": "https://github.com/manuel-inhertz/parsedown-x.git"
+    },    
+    "require": {
+        "php": ">=5.3",
+        "erusev/parsedown": "^1.7"
+    },
+    "autoload": {
+        
+    },
+    "extra": {
+        "package_name": "parsedownX",
+        "namespace": "parsedownx",
+        "version": "1.0.0",
+        "release": "pl",
+        "category":"parsedownX"
+    }
+}
